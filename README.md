@@ -9,3 +9,7 @@ An attempt to make legendary snake game. Remember Nokia (1100).
 # Framework
 
 Use of P5 javascript Framework.
+
+# Motivation
+
+To not study for ADMS1000 midterm :-)
